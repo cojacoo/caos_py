@@ -3,6 +3,9 @@ caos_efu
 
 An eco-hydrological model for observation and experiment driven water, solutes and energy dynamics simulation based on a representative macropore-matrix setup, explicit macropore-matrix interaction and water as particles. This model developed is part of the DFG research group Catchments As Organized Systems (CAOS).
 
+we are still developing - pleas check back soon.
+------------------------------------------------
+
 Dependencies
 ------------
 
