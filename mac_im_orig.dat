@@ -1,0 +1,7 @@
+depth,file,threshold
+0.05,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_5.png,200
+0.2,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_20.png,200
+0.37,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_37.png,200
+0.46,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_46.png,200
+0.61,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_61.png,200
+0.7,../../DATA/sprinkler_exp_1013/inf_DE2_stretch_70.png,200
